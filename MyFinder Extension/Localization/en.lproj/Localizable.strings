@@ -1,0 +1,62 @@
+/* 拷贝复制版错误提示 */
+"alert.copy_pasteboard_error" = "Copy Error";
+
+/* 拷贝模板错误alert */
+"alert.copy_template_error" = "Copy Template Error";
+
+/* 新建文件错误alert */
+"alert.new_file_error" = "New File Error";
+
+/* No comment provided by engineer. */
+"Copy Path" = "Copy Path";
+
+/* No comment provided by engineer. */
+"CSS File" = "CSS File";
+
+/* No comment provided by engineer. */
+"Excel File" = "Excel File";
+
+/* No comment provided by engineer. */
+"HTML File" = "HTML File";
+
+/* No comment provided by engineer. */
+"JavaScipt File" = "JavaScipt File";
+
+/* No comment provided by engineer. */
+"Keynote File" = "Keynote File";
+
+/* No comment provided by engineer. */
+"Markdown File" = "Markdown File";
+
+/* No comment provided by engineer. */
+"New File" = "New File";
+
+/* No comment provided by engineer. */
+"Numbers File" = "Numbers File";
+
+/* No comment provided by engineer. */
+"Open Terminal" = "Open Terminal";
+
+/* No comment provided by engineer. */
+"Open Terminal On Tab" = "Open Terminal On Tab";
+
+/* No comment provided by engineer. */
+"Others" = "Others";
+
+/* No comment provided by engineer. */
+"Pages File" = "Pages File";
+
+/* No comment provided by engineer. */
+"PowerPoint File" = "PowerPoint File";
+
+/* No comment provided by engineer. */
+"Python File" = "Python File";
+
+/* No comment provided by engineer. */
+"Rich File" = "Rich File";
+
+/* No comment provided by engineer. */
+"Text File" = "Text File";
+
+/* No comment provided by engineer. */
+"Word File" = "Word File";
