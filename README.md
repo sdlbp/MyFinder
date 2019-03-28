@@ -13,3 +13,6 @@
 sudo ./build_dmg.sh
 ```
 
+# TODO
+
+* 支持不同的Terminal
