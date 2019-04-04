@@ -16,3 +16,9 @@ sudo ./build_dmg.sh
 # TODO
 
 * 支持不同的Terminal
+
+* 支持升级
+
+* build之后自动上传网盘脚本
+
+  

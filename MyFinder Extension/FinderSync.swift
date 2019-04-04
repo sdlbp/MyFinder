@@ -212,7 +212,7 @@ extension FinderSync {
         // copy to clipboard https://github.com/zhaorui/PbDemo
         let pasteboard = NSPasteboard.general
         pasteboard.clearContents()
-        let success = pasteboard.setString(str, forType: .string)
+        let success = pasteboard.setString(str.trimmingCharacters(in: .whitespacesAndNewlines), forType: .string)
         if (!success) {
             Common.alert(NSLocalizedString("alert.copy_pasteboard_error", comment: "拷贝复制版错误提示"))
         }
