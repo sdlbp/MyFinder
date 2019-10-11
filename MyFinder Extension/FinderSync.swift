@@ -107,7 +107,7 @@ class FinderSync: FIFinderSync {
 /// menu item action
 extension FinderSync {
     @IBAction func newFile(_ sender: NSMenuItem?) {
-        print("new file")
+//        print("new file")
         let targetURL = FIFinderSyncController.default().targetedURL()
 
         DispatchQueue.main.async {
@@ -119,6 +119,7 @@ extension FinderSync {
             savePanel.allowsOtherFileTypes = true
             savePanel.isExtensionHidden = false
             savePanel.canCreateDirectories = true
+            savePanel.showsTagField = false
             savePanel.begin(completionHandler: { (result) in
                 if result == NSApplication.ModalResponse.OK {
                     guard let path = savePanel.url else {
